@@ -14,16 +14,9 @@ A simple **TCP-based chat simulation** that allows up to **three clients** to co
 ✅ **Clear terminal UI** with proper spacing  
 
 ## 📷 Screenshots
-User1 view
 <img src="user1.png" alt="User1 view" width="600">
-
-User2 view
 <img src="user2.png" alt="User2 view" width="600">
-
-User3 view
 <img src="user3.png" alt="User3 view" width="600">
-
-User4 view
 <img src="server.png" alt="Server view" width="600">
 
 ## ⚙️ How It Works
