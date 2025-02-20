@@ -13,8 +13,11 @@ A simple **TCP-based chat simulation** that allows up to **three clients** to co
 ✅ **Real-time message synchronization** between clients  
 ✅ **Clear terminal UI** with proper spacing  
 
-## 📷 Screenshot
-<img src="screenshot.png" alt="TCP Protocol Simulator" width="600">
+## 📷 Screenshots
+<img src="user1.png" alt="User1 view" width="600">
+<img src="user2.png" alt="User2 view" width="600">
+<img src="user3.png" alt="User3 view" width="600">
+<img src="server.png" alt="Server view" width="600">
 
 ## ⚙️ How It Works
 1. The **server** listens for incoming TCP connections.  
